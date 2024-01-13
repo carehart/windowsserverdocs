@@ -43,7 +43,9 @@ To validate your environment, open an elevated PowerShell session and do the fol
 
 # [GUI](#tab/gui)
 
-To install the OpenSSH components on Windows 10 devices:
+The steps to install the OpenSSH components vary slightly for Windows 10, Windows 11, and Windows Server, as discussed in the different subsections that follow.
+
+### To install the OpenSSH components on Windows 10 devices:
 
 1. Open **Settings**, select **System**, then select **Optional Features**.
 
@@ -60,7 +62,7 @@ To install the OpenSSH components on Windows 10 devices:
 
 1. To start the service, select **Start**.
 
-To install the OpenSSH components on Windows 11 devices:
+### To install the OpenSSH components on Windows 11 devices:
 
 1. Open **Settings**, select **System**, then select **Optional Features**.
 
@@ -77,7 +79,7 @@ To install the OpenSSH components on Windows 11 devices:
 
 1. To start the service, select **Start**.
 
-To install the OpenSSH components on Windows Server devices:
+### To install the OpenSSH components on Windows Server devices:
 
 1. Open **Settings**, select **System**, then select **Optional Features** (also referred to as **Manage optional features**).
 
